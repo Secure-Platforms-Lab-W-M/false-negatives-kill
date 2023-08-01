@@ -12,6 +12,10 @@ This repository contains the following artifacts of this study:
 - Interview Guide [[pdf]](interview-guide.pdf)
 
 
+## Preprint
+
+https://amitsealami.com/publications/ami-fn-oakland24.pdf
+
 ### Bibliography
 
 ```bibtex

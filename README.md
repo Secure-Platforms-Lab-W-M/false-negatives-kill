@@ -1,9 +1,8 @@
-# False negative - that one is going to kill you’ - Understanding Industry Perspectives of Static Analysis based Security Testing
+# "*False negative - that one is going to kill you*" - Understanding Industry Perspectives of Static Analysis based Security Testing
 
 ## Amit Seal Ami, Kevin Moran, Denys Poshyvanyk, Adwait Nadkarni
 
-
-To be published at the 2024 IEEE Symposium on Security and Privacy (S&P)!
+*To be published at the 2024 IEEE Symposium on Security and Privacy ([S&P](https://sp2024.ieee-security.org/))!*
 
 
 ### Bibliography

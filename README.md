@@ -12,7 +12,7 @@ To be published at the 2024 IEEE Symposium on Security and Privacy (S&P)!
 @inproceedings{ami-fn-oakland24,
   author = {Ami, Amit Seal and Moran, Kevin and Poshyvanyk, Denys and Nadkarni, Adwait},
   title = {{"False negative - that one is going to kill you" - Understanding Industry Perspectives of Static Analysis based Security Testing}},
-  booktitle = {Proceedings of the 2024 IEEE Symposium on Security and Privacy (S&P)},
+  booktitle = {Proceedings of the 2024 IEEE Symposium on Security and Privacy (S\&P)},
   address = {San Francisco, CA, USA},
   year = {2024},
   publisher = {IEEE Computer Society},

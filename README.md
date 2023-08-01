@@ -7,9 +7,9 @@
 
 This repository contains the following artifacts of this study:
 
-- The Survey Questionnaire, with informed consent form [[pdf]](redacted-Survey-Questionnaire.pdf)
-- The Interview Consent Form [[pdf]](Interview-consent-form.pdf)
-- The Interview Guide [[pdf]](interview-guide.pdf)
+- Survey Questionnaire, with informed consent form [[pdf]](redacted-Survey-Questionnaire.pdf)
+- Interview Consent Form [[pdf]](Interview-consent-form.pdf)
+- Interview Guide [[pdf]](interview-guide.pdf)
 
 
 ### Bibliography

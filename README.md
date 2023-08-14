@@ -14,7 +14,7 @@ This repository contains the following artifacts of this study:
 
 ## Preprint
 
-https://amitsealami.com/publications/ami-fn-oakland24.pdf
+https://amitsealami.com/false-negatives-kill/
 
 ### Bibliography
 

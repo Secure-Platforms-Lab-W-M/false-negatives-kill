@@ -27,7 +27,6 @@ https://amitsealami.com/false-negatives-kill/
   year = {2024},
   publisher = {IEEE Computer Society},
   month = may,
-  note = {to be published in},
   pdf = {https://amitsealami.com/publications/ami-fn-oakland24.pdf},
   month_numeric = {5}
 }
